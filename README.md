@@ -1,7 +1,7 @@
 # UDTdiffusion
 UDTdiffusion: A Pseudo-Condition Guided Adversarial Fast Diffusion Model for Unpaired Medical Image Translation
 
-After the article is accepted, we will provide trained PTH weight files for researchers to reproduce the test results
+After the article is accepted, we will provide trained .pth weight files for researchers to reproduce the test results
 # Dependencies
 	python>=3.6.9
 	torch>=1.7.1
